@@ -6,3 +6,6 @@ espRogue is an 802.11 network penetration testing tool utilizing a social engine
 * Create configuration page that will open when attacker connects to AP;
 * Create deauth attack;
 * Identify and store the handshake;
+
+## References
+https://mrncciew.com/2014/10/08/802-11-mgmt-beacon-frame/
