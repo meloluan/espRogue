@@ -6,6 +6,8 @@ espRogue is a socially engineered KARMA attack tool for phishing credentials cap
 * Create configuration page that will open when attacker connects to AP;
 * Create deauth attack;
 * Identify and store the handshake;
+* Use hanshake to have victims automatically connect to the fake AP;
+* Respond to DNS requests to redirect all http or https requests to a fake page.
 
 ## References
 * https://mrncciew.com/2014/10/08/802-11-mgmt-beacon-frame/
