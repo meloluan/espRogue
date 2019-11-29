@@ -8,5 +8,5 @@ espRogue is an 802.11 network penetration testing tool utilizing a social engine
 * Identify and store the handshake;
 
 ## References
-https://mrncciew.com/2014/10/08/802-11-mgmt-beacon-frame/
-https://census-labs.com/media/known_beacons_34c3.pdf
+* https://mrncciew.com/2014/10/08/802-11-mgmt-beacon-frame/
+* https://census-labs.com/media/known_beacons_34c3.pdf
